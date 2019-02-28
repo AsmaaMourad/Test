@@ -1,5 +1,5 @@
-# Q1
-## Transform a few more (easy) RGB values manually into corresponding HSI values.
+## Q1
+### Transform a few more (easy) RGB values manually into corresponding HSI values.
 
 The R,G,B values are divided by 255 to change the range from 0..255 to 0..1:
 
@@ -29,8 +29,8 @@ The R,G,B values are divided by 255 to change the range from 0..255 to 0..1:
 
 *************************
 
-# Q2
-## In the CIE’s RGB colour space (which models human colour perception), the scalars R, G, or B may also be negative. Provide a physical interpretation (obviously, we cannot subtract light from a given spectrum).
+## Q2
+### In the CIE’s RGB colour space (which models human colour perception), the scalars R, G, or B may also be negative. Provide a physical interpretation (obviously, we cannot subtract light from a given spectrum).
 
 - The CIE color model is a mapping system that uses tristimulus (a combination of 3 color values that are close to red/green/blue) values, which are plotted on a 3D space. When these values are combined, they can reproduce any color that a human eye can perceive. 
 
